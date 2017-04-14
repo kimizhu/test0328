@@ -7,7 +7,7 @@
       "build_source_folder": "test0328",
       "build_output_subfolder": "test0328",
       "locale": "en-us",
-      "monikers": [],
+      "monikers": ["1"],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -16,7 +16,8 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "version": 0
+      "version": 0,
+      "terrysb": ["1"]
     }
   ],
   "notification_subscribers": [],
